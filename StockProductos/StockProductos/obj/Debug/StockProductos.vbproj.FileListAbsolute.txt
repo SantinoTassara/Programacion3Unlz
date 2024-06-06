@@ -1,0 +1,15 @@
+C:\Users\Santino\source\repos\StockProductos\StockProductos\bin\Debug\StockProductos.exe.config
+C:\Users\Santino\source\repos\StockProductos\StockProductos\bin\Debug\StockProductos.exe
+C:\Users\Santino\source\repos\StockProductos\StockProductos\bin\Debug\StockProductos.pdb
+C:\Users\Santino\source\repos\StockProductos\StockProductos\bin\Debug\StockProductos.xml
+C:\Users\Santino\source\repos\StockProductos\StockProductos\bin\Debug\StockProductosService.dll
+C:\Users\Santino\source\repos\StockProductos\StockProductos\bin\Debug\StockProductosService.pdb
+C:\Users\Santino\source\repos\StockProductos\StockProductos\obj\Debug\StockProductos.vbproj.AssemblyReference.cache
+C:\Users\Santino\source\repos\StockProductos\StockProductos\obj\Debug\StockProductos.Form1.resources
+C:\Users\Santino\source\repos\StockProductos\StockProductos\obj\Debug\StockProductos.Resources.resources
+C:\Users\Santino\source\repos\StockProductos\StockProductos\obj\Debug\StockProductos.vbproj.GenerateResource.cache
+C:\Users\Santino\source\repos\StockProductos\StockProductos\obj\Debug\StockProductos.vbproj.CoreCompileInputs.cache
+C:\Users\Santino\source\repos\StockProductos\StockProductos\obj\Debug\StockPro.44F7FF96.Up2Date
+C:\Users\Santino\source\repos\StockProductos\StockProductos\obj\Debug\StockProductos.exe
+C:\Users\Santino\source\repos\StockProductos\StockProductos\obj\Debug\StockProductos.xml
+C:\Users\Santino\source\repos\StockProductos\StockProductos\obj\Debug\StockProductos.pdb

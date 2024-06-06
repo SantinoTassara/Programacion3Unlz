@@ -1,0 +1,6 @@
+C:\Users\Santino\source\repos\StockProductos\StockProductosService\bin\Debug\StockProductosService.dll
+C:\Users\Santino\source\repos\StockProductos\StockProductosService\bin\Debug\StockProductosService.pdb
+C:\Users\Santino\source\repos\StockProductos\StockProductosService\obj\Debug\StockProductosService.csproj.AssemblyReference.cache
+C:\Users\Santino\source\repos\StockProductos\StockProductosService\obj\Debug\StockProductosService.csproj.CoreCompileInputs.cache
+C:\Users\Santino\source\repos\StockProductos\StockProductosService\obj\Debug\StockProductosService.dll
+C:\Users\Santino\source\repos\StockProductos\StockProductosService\obj\Debug\StockProductosService.pdb
