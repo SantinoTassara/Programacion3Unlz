@@ -1,0 +1,12 @@
+C:\Users\Santino\source\repos\Empresa Latas\Empresa Latas\bin\Debug\Empresa Latas.exe.config
+C:\Users\Santino\source\repos\Empresa Latas\Empresa Latas\bin\Debug\Empresa Latas.exe
+C:\Users\Santino\source\repos\Empresa Latas\Empresa Latas\bin\Debug\Empresa Latas.pdb
+C:\Users\Santino\source\repos\Empresa Latas\Empresa Latas\bin\Debug\Empresa Latas.xml
+C:\Users\Santino\source\repos\Empresa Latas\Empresa Latas\obj\Debug\Empresa Latas.vbproj.AssemblyReference.cache
+C:\Users\Santino\source\repos\Empresa Latas\Empresa Latas\obj\Debug\Empresa_Latas.Form1.resources
+C:\Users\Santino\source\repos\Empresa Latas\Empresa Latas\obj\Debug\Empresa_Latas.Resources.resources
+C:\Users\Santino\source\repos\Empresa Latas\Empresa Latas\obj\Debug\Empresa Latas.vbproj.GenerateResource.cache
+C:\Users\Santino\source\repos\Empresa Latas\Empresa Latas\obj\Debug\Empresa Latas.vbproj.CoreCompileInputs.cache
+C:\Users\Santino\source\repos\Empresa Latas\Empresa Latas\obj\Debug\Empresa Latas.exe
+C:\Users\Santino\source\repos\Empresa Latas\Empresa Latas\obj\Debug\Empresa Latas.xml
+C:\Users\Santino\source\repos\Empresa Latas\Empresa Latas\obj\Debug\Empresa Latas.pdb
