@@ -1,0 +1,6 @@
+C:\Users\Santino\source\repos\GestorAuto\VehiculosServices\bin\Debug\VehiculosServices.dll
+C:\Users\Santino\source\repos\GestorAuto\VehiculosServices\bin\Debug\VehiculosServices.pdb
+C:\Users\Santino\source\repos\GestorAuto\VehiculosServices\obj\Debug\VehiculosServices.csproj.AssemblyReference.cache
+C:\Users\Santino\source\repos\GestorAuto\VehiculosServices\obj\Debug\VehiculosServices.csproj.CoreCompileInputs.cache
+C:\Users\Santino\source\repos\GestorAuto\VehiculosServices\obj\Debug\VehiculosServices.dll
+C:\Users\Santino\source\repos\GestorAuto\VehiculosServices\obj\Debug\VehiculosServices.pdb
